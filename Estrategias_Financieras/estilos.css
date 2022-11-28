@@ -1,0 +1,142 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+#container{
+    width: 90%;
+    margin: 0px auto;
+}
+header h1{
+    background: url(x3.jpg) ;
+    background-size: 100% 97% ;
+    height: 300px;
+    overflow: hidden;
+    color: #000000;
+    text-align:center;
+    line-height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-shadow: 5px 3px 8px #e9c1d4;
+}
+nav{
+    background: #ffd3e8;
+    height: 50px;
+    border-bottom: 5px solid #ffffff;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    margin : 10px;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+}
+.clear{
+    clear: both;
+}
+#contenido{
+    float: left;
+    width: calc(80% - 80px);
+    min-height: 500px;
+    background: linear-gradient(90deg, #9deafc,#de87f1);
+    opacity: 1.0;
+    padding: 40px;
+    text-align: justify;
+}
+.article{
+    color:#000000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000000;
+}
+aside{
+    float: left;
+    width: calc(20% - 20px);
+    min-height: 1062px;
+    background: linear-gradient(90deg,#f3f598,#d0f88e );
+    padding: 10px;
+}
+footer{
+    background: #000000;
+    color: #ffffff;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;   
+}
+body {
+    margin: 0;
+}
+header h2{
+    background: url(x1.jpg) ;
+    background-size: 100% 97% ;
+    height: 300px;
+    overflow: hidden;
+    color: #000000;
+    text-align:center;
+    line-height: 160px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-shadow: 5px 3px 8px #e9c1d4;
+}
+nav h2{
+    background: #e9c1e2;
+    height: 50px;
+    border-bottom: 5px solid #ffffff;
+}
+table{
+    background: linear-gradient(90deg, #e7a4c5, #f0f192);
+    color: #000000;
+    text-decoration: center;
+    height: 80px;      
+}
+header h3{
+    background: url(x.jpg);
+    background-size: 100% 97% ;
+    height: 300px;
+    overflow: hidden;
+    color: #000000;
+    text-align: justify;
+    line-height: 160px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-shadow: 5px 3px 8px #e9c1d4;   
+}
+nav h3 {
+    background: #d3ecb7;
+    height: 50px;
+    border-bottom: 5px solid #ffffff;
+}
+header h4{
+    background: url(x6.png) ;
+    background-size: 100% 97% ;
+    height: 300px;
+    overflow: hidden;
+    color: #000000;
+    text-align:center;
+    line-height: 160px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-shadow: 5px 3px 8px #e2f8d8;
+}   
+nav h4{
+    background: hsl(64, 95%, 78%);
+    height: 50px;
+    border-bottom: 5px solid #ffffff;
+}
+header h5{
+    background: url(x4.jpg) ;
+    background-size: 100% 97% ;
+    height: 300px;
+    overflow: hidden;
+    color: #000000;
+    text-align:center;
+    line-height: 160px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-shadow: 5px 3px 8px #e9c1d4;
+}
